@@ -1,0 +1,6 @@
+/*-------------------------------------- Only for pages, which has a map!! --------------------------------------*/
+
+  html, body, .container-fluid, .row, .google_map { height: 100%;}
+
+
+
